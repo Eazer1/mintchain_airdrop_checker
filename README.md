@@ -1,0 +1,1 @@
+# mintchain_airdrop_checker
